@@ -1,2 +1,2 @@
 NFT preview card\
-DEMO:
+DEMO: https://nft-preview-card-novakovic.netlify.app/
